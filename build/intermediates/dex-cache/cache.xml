@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_a885a19a22818924d5183628bd94a54ef8ee90b0.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/LauncherStudy/wallpaperpick/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1162898d10f02c1cc10ca6bd329daba136a5d297">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/LauncherStudy-wallpaperpick-unspecified_3461ca3febd20bd03a3c985c54b7ec8252740fe1.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_f7436807e4fda50ba3d0a58bb61c12b072674a67.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_adc42c62c213da8a53f526074c7b6a1627de150e.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_51740caac65f116e1e8bfe69544095e73e258bd6.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_293b8bc8329f6d7a9781e3fc3dd082a9471f4b8d.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/study/LauncherStudy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_7756f3fb490c5f15ff29e12344b3c79a5248a4e9.jar" />
+    </item>
+    <item
+        jar="/home/gaojt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/gaojt/study/LauncherStudy/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_4a096a1720d6c57be5da8ad749bf9972c9928624.jar" />
+    </item>
+
+</items>
